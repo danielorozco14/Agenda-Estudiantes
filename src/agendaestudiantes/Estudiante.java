@@ -3,8 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package agendaestudiantes;
 
+package agendaestudiantes;
+/**
+ *
+ * @author Daniel Alejandro Orozco Orellana <00200617 at uca.edu.sv>
+ */
 import java.util.Objects;
 
 public class Estudiante {
